@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I am Noah 👋
+🎓 Studying IT-Security
+
+💼 @ [Deutsche Telekom Security](https://www.t-systems.com/us/en/security)
+
+🏠 Metropolitan Region Rhine-Neckar
+
+🌐 https://codesalat.dev
+
+📨 MATRIX: codesalat@codesalat.dev
 
 <!--
 **codesalatdev/codesalatdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
