@@ -7,7 +7,7 @@
 
 🌐 https://codesalat.dev
 
-📨 [MATRIX](https://matrix.org): codesalat@codesalat.dev
+📨 [MATRIX](https://matrix.org): @codesalat:codesalat.dev
 
 <!--
 **codesalatdev/codesalatdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
