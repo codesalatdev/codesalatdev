@@ -1,13 +1,15 @@
-### Hi there, I am Noah 👋
+<h1 align="center">Hi there, I am Noah 👋</h1>
+<p align="center">
+  <a href="https://codesalat.dev"><img src="https://img.shields.io/badge/Website-codesalat.dev-lightgrey?style=for-the-badge&logo=ghost&logoColor=white" /></a>
+  <a href="https://matrix.to/#/@me:codesalat.dev"><img src="https://img.shields.io/badge/Chat-%40me%3Acodesalat.dev-lightgrey?style=for-the-badge&logo=matrix&logoColor=white" /></a>
+  <a href="https://infosec.exchange/@codesalat"><img src="https://img.shields.io/badge/Social-@codesalat@infosec.exchange-lightgrey?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+</p>
+
 🎓 Studying IT-Security
 
 💼 @ [Deutsche Telekom Security](https://www.t-systems.com/us/en/security)
 
 🏠 Rhine-Main Metropolitan Region
-
-🌐 https://codesalat.dev
-
-📨 [MATRIX](https://matrix.org): [@me:codesalat.dev](https://matrix.to/#/@me:codesalat.dev)
 
 <!--
 **codesalatdev/codesalatdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
