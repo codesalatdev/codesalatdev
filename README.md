@@ -7,7 +7,7 @@
 
 🎓 Studying IT-Security
 
-💼 @ [Deutsche Telekom Security](https://www.t-systems.com/us/en/security)
+💼 @ [Deutsche Telekom Security](https://security-telekom.com)
 
 🏠 Rhine-Main Metropolitan Region
 
