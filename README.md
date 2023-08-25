@@ -5,7 +5,7 @@
   <a href="https://infosec.exchange/@codesalat"><img src="https://img.shields.io/badge/Social-@codesalat@infosec.exchange-lightgrey?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
 </p>
 
-🎓 Studying IT-Security
+🎓 B.Sc. IT-Security
 
 💼 @ [Deutsche Telekom Security](https://security-telekom.com)
 
