@@ -7,7 +7,7 @@
 
 🎓 B.Sc. IT-Security
 
-💼 @ [Deutsche Telekom Security](https://security-telekom.com)
+💼 @ [Deutsche Telekom Security](https://telekom-security.com)
 
 🏠 Rhine-Main Metropolitan Region
 
