@@ -7,7 +7,7 @@
 
 🎓 B.Sc. IT-Security
 
-💼 Pentester @ [Deutsche Telekom Security](http://telekom-security.com)
+💼 Red teamer @ [Deutsche Telekom Security](http://telekom-security.com)
 
 🏠 Rhine-Main Metropolitan Region
 
